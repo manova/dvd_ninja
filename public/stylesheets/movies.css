@@ -1,0 +1,48 @@
+#filter-top {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+#filter-bottom {
+	margin-bottom: 1em;
+}
+.filter-label {
+	margin-right:2em;
+}
+.push-right {
+	margin-left:3em;
+}
+.push-down {
+	margin-bottom:3em;
+	margin-top:2em;
+}
+.navbar-inner .container {
+  width: 1250px;
+}
+.container {
+  width: 1250px;
+}
+.footer {
+  position: relative;
+  margin-top: -150px; /* negative value of footer height */
+  height: 150px;
+  clear:both;
+  padding-top:20px;
+}
+html, body {
+  height: 100%;
+}
+.row {
+  margin:15px 0;
+}
+#wrap {
+  min-height: 100%;
+}
+
+#container {
+  min-height: 100%;
+}
+
+#main {
+  overflow:auto;
+  padding-bottom:150px; /* this needs to be bigger than footer height*/
+}

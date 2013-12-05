@@ -1,0 +1,59 @@
+!!! 5
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+    link(rel='stylesheet', href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css")
+    link(rel='stylesheet', href='/stylesheets/social-buttons.css')
+    link(rel='stylesheet', href="/stylesheets/datepicker.css")
+    link(rel='stylesheet', href="/stylesheets/slider.css")
+    link(rel='stylesheet', href="/stylesheets/movies.css")
+    script(type='text/javascript', src='/scripts/jquery.min.js')
+    script(type='text/javascript', src='/scripts/bootstrap-datepicker.js')
+    script(type='text/javascript', src='/scripts/bootstrap-slider.js')
+    script(type='text/javascript', src='/scripts/movies.js')
+
+  body
+    div.navbar.navbar-inverse.navbar-static-top
+      div.navbar-inner
+        div.container
+          ul.nav.pull-left
+            li
+              a(href='/')
+                img(src='images/ninja_logo.png')
+            li.vertical-divider-gray
+          ul.pull-left
+            span.navbar-search#search
+              input(class="search-query", "type="text", id="query", name="query", autocomplete="off", placeholder="Search")
+    div#wrap
+      div.container.clear-top#main
+        div#filter-top
+          span.filter-label Start Date
+          input.span2#dp1.filter-label(type='text', value='12-02-2012', data-date-format='mm-dd-yyyy')
+          span.filter-label End Date
+          input.span2.filter-label#dp2(type='text', value='12-02-2014', data-date-format='mm-dd-yyyy')
+          span#genre_list.filter-label Genre
+          select.span2#genre_select(name='genre', value='')
+            option(value='') All
+            option(value='Action') Action
+            option(value='Adventure') Adventure
+            option(value='Comedy') Comedy
+            option(value='Thriller') Thriller
+            option(value='Anime') Anime
+            option(value='Foreign') Foreign
+        div#filter-bottom
+          span.filter-label Critic Rating
+          input.span2#ds1.filter-label(type='text', value='', data-slider-min='0', data-slider-max='100', data-slider-step='5',
+           data-slider-value='60', data-slider-orientation='horizontal', data-slider-selection='after',
+           data-slider-tooltip='show')
+          span.filter-label.push-right Audience Rating
+          input.span2#ds2(type='text', value='', data-slider-min='0', data-slider-max='100', data-slider-step='5',
+           data-slider-value='60', data-slider-orientation='horizontal', data-slider-selection='after',
+           data-slider-tooltip='show')
+          div.push-down
+            button.btn.btn-primary#filter-btn
+              span.icon.icon-search Find Movie
+        div#results
+    hr
+    div.navbar.navbar-static-bottom
+      p Copyright &copy; 2013 DVD Ninja. All rights reserved.
