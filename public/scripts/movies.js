@@ -12,13 +12,26 @@
     if(dd<10){dd='0'+dd;} if(mm<10){mm='0'+mm;} today = mm+'-'+dd+'-'+yyyy;
     $("#dp2").val(today);
     $('#filter-btn').click(function(){
+        get_movies('/dvds');
+    });
+    $('#search-bar').bind('keydown', function(e) {
+      if (e.which == 13) {
+        var value = $(this).val();
+        if (value) {
+            get_movies('/dvds');       
+        }
+      }
+    });
+
+    function get_movies(url){
       var data = {};
+      data['movie_query'] = $('#search-bar').val();
       data['genre'] = $('#genre_select').val();
       data['start_date'] = $('#dp1').val();
       data['end_date'] = $('#dp2').val();
       data['critic_rating'] = $('#ds1').data('slider').getValue();
       data['audience_rating'] = $('#ds2').data('slider').getValue();
-      $.get("/dvds", data, function(data){
+      $.get(url, data, function(data){
         $('#results').empty();
         var json_data = JSON.parse(data);
         var str = '<table class="table table-striped table-bordered table-condensed">';
@@ -32,7 +45,6 @@
               torrent_link = value.torrents[0].torrent_link;
             }
           }
-
           str = str+'<tr><td>'+ movie_title +'</td><td>' + new Date(
             value.dvd_release_date).toDateString() + '</td><td>'+
           value.critic_rating+'%</td><td>'+value.audience_rating+
@@ -42,7 +54,7 @@
         str = str+'</table>';
         $('#results').append(str);
       });
-    });
+    }
   });
 })(jQuery);
 

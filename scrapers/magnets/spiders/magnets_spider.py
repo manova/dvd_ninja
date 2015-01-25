@@ -13,7 +13,7 @@ class MagnetSpider(BaseSpider):
 	name = "magnet"
 	other_urls = []
 	names = []
-	movies = MongoClient().movies.movies
+	movies = MongoClient().dvds.movies
 	count = -1
 	allowed_domains = [
 	"kickass.to"

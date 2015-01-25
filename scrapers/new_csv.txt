@@ -1,0 +1,345 @@
+DVD_Title|Studio|Released|Status|Sound|Versions|Price|Rating|Year|Genre|Aspect|UPC|DVD_ReleaseDate|ID|Timestamp|Updated
+10 American Horror Stories, Vol. 2: Bay Coven / Grave Secrets: The Legacy Of Hilltop Drive / Midnight's Child / Hurt / ...|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|Horror|1.33:1|096009265946|2014-09-09 00:00:00|266546|2014-09-09 00:00:00|1
+10 Movies For The Whole Family: Huckleberry Finn (1975) / Fury: The King Of The Wild Stallions / The Proud Rebel / ...|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|Family|1.33:1|096009303044|2014-09-09 00:00:00|266534|2014-09-09 00:00:00|1
+10-Film Action Pack, Vol. 6: The President's Man / The President's Man 2: A Line In The Sand / Logan's War: Bound By Honor / ...|Echo Bridge||Out|2.0|VAR|14.99|NR|VAR|Action/Adventure|VAR|096009264949|2014-09-09 00:00:00|266510|2014-09-09 00:00:00|1
+10-Film Explosive Action, Vol. 7: Ed McBain's 87th Precinct: Ice / A Father's Revenge / The Sweeper / The Spy Killer / ...|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|VAR|1.33:1|096009265144|2014-09-09 00:00:00|266493|2014-09-09 00:00:00|1
+10-Film Extreme Fighting Collector's Set: Fist Of Honor / Maximum Cage Fighting / East L.A. Warriors / Forced To Kill / ...|Echo Bridge||Out|2.0|4:3|14.99|VAR|VAR|Action/Adventure|1.33:1|096009301842|2014-09-09 00:00:00|266475|2014-09-09 00:00:00|1
+10-Movie Action Pack, Vol. 12: Once A Thief (1996) / Once A Thief: Family Business / Once A Thief: Brother Against Brother / ...|Echo Bridge||Out|2.0|4:3|14.99|VAR|VAR|Action/Adventure|1.33:1|096009302542|2014-09-09 00:00:00|266463|2014-09-09 00:00:00|1
+10-Movie Action Pack, Vol. 4: Infinite Justice: The President's Plane Is Missing / Spenser: The Judas Goat / Ice / Booster / ...|Echo Bridge||Out|2.0|VAR|14.99|VAR|VAR|Action/Adventure|VAR|096009203344|2014-09-09 00:00:00|266525|2014-09-09 00:00:00|1
+10-Movie America's Favorite Country Stars: Is There Life Out There? / Baron And The Kid / Crazy / ...|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|Drama|1.33:1|096009302948|2014-09-09 00:00:00|266504|2014-09-09 00:00:00|1
+10-Movie Family Adventure Collection, Vol. 4: Wind Dancer / Young Pioneers / Castle Rock / Long Road Home / ...|Echo Bridge||Out|2.0|4:3|14.99|VAR|VAR|Family|1.33:1|096009303242|2014-09-09 00:00:00|266542|2014-09-09 00:00:00|1
+10-Movie Family Adventure Collection, Vol. 5|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|Family|1.33:1|096009303143|2014-09-09 00:00:00|266484|2014-09-09 00:00:00|1
+10-Movie Fantasy Adventure, Vol. 1|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|Fantasy|1.33:1|096009302344|2014-09-09 00:00:00|267197|2014-09-09 00:00:00|1
+16-Love|Viva Pictures||Out|2.0|4:3|14.93|PG|2012|Family|1.33:1|816943010439|2014-08-28 00:00:00|269700|2014-09-09 00:00:00|0
+3 Scream Queens|Rapid Heart Pictures|2015-01-27 00:00:00|Pending|2.0|LBX, 16:9|14.98|NR|2004|Horror|1.78:1|733159716002|2015-01-27 00:00:00|269649|2014-09-09 00:00:00|0
+4 Unforgettable Horror Movies: Hellraiser / Children Of The Corn (1984) / Re-Animator / Never Sleep Again|Image||Out|VAR|LBX, 16:9|19.98|VAR|VAR|Horror|VAR|014381001389|2014-09-09 00:00:00|267134|2014-09-09 00:00:00|1
+6 Pack Of Horror: Lovely Molly / Airborne / ChromeSkull: Laid To Rest 2 / Barricade / Madison County / Frankenstein Theory|Image||Out|5.1|LBX, 16:9|19.98|VAR|VAR|Horror|VAR|014381001402|2014-09-09 00:00:00|267133|2014-09-09 00:00:00|1
+6-Film Fantasy Adventure Collection: Blackbeard / Journey To The Center Of The Earth (2008) / Poseidon Adventure (2005) / ...|Echo Bridge||Out|2.0|VAR|14.99|NR|VAR|Action/Adventure|VAR|096009366544|2014-09-09 00:00:00|266480|2014-09-09 00:00:00|1
+6-Movie Backwoods Butchers|Echo Bridge|2014-11-18 00:00:00|Pending|2.0|4:3|14.99|NR|VAR|Horror|1.33:1|096009329143|2014-11-18 00:00:00|269663|2014-09-09 00:00:00|0
+6-Movie Mutant Creatures|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|SciFi|1.33:1|096009325145|2014-09-09 00:00:00|266571|2014-09-09 00:00:00|1
+7-Movie Spirit Of The North Film Collection|Echo Bridge||Out|2.0|4:3|14.99|NR|VAR|Family|1.33:1|096009371142|2014-09-09 00:00:00|266462|2014-09-09 00:00:00|1
+9-Film Action Pack|Echo Bridge|2014-11-18 00:00:00|Pending|2.0|4:3|14.99|NR|VAR|Action/Adventure|1.33:1|096009367244|2014-11-18 00:00:00|269691|2014-09-09 00:00:00|0
+A-Team (2010/ Blu-ray)|Fox||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|14.99|PG-13|2010|Action/Adventure|2.35:1|024543970460|2014-09-09 00:00:00|267663|2014-09-09 00:00:00|1
+Across 110th Street (Kino Lorber Studio Classics)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9|19.95|R|1972|Action/Adventure|1.85:1|738329138127|2014-09-09 00:00:00|267448|2014-09-09 00:00:00|1
+Across 110th Street (Kino Lorber Studio Classics/ Blu-ray)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9, BLU-RAY|29.95|R|1972|Action/Adventure|1.85:1|738329138226|2014-09-09 00:00:00|267465|2014-09-09 00:00:00|1
+Addams Family (1991/ Warner Brothers/ Blu-ray)|Warner Brothers||Out|5.1|LBX, 16:9, BLU-RAY|14.97|PG-13|1991|Comedy|1.85:1|883929409716|2014-09-09 00:00:00|265464|2014-09-09 00:00:00|1
+Adobe Flash Professional CC Learn By Video 2014 (DVD-ROM)|Peachpit Press||Out|2.0|4:3|79.99|NR|2014|Special Interest|1.33:1|9780133928099|2014-09-11 00:00:00|267047|2014-09-09 00:00:00|1
+Adobe Photoshop 3D Design And Printing (DVD-ROM)|Peachpit Press||Out|2.0|4:3|99.99|NR|2014|Special Interest|1.33:1|9780133930313|2014-09-11 00:00:00|263274|2014-09-09 00:00:00|1
+Agents Of S.H.I.E.L.D: The Complete 1st Season|Buena Vista||Out|2.0|LBX, 16:9|45.99|NR|2013|TV Classics|1.78:1|786936839784|2014-09-09 00:00:00|265697|2014-09-09 00:00:00|1
+Agents Of S.H.I.E.L.D: The Complete 1st Season (Blu-ray)|Buena Vista||Out|2.0|LBX, 16:9, BLU-RAY|79.99|NR|2013|TV Classics|1.78:1|786936839760|2014-09-09 00:00:00|265651|2014-09-09 00:00:00|1
+Air War In Vietnam (Military Heritage Institute)|Military Heritage Institute||Out|2.0|4:3|19.98|NR|UNK|Documentary|1.33:1|723721782160|2014-09-09 00:00:00|267464|2014-09-09 00:00:00|1
+Alaska Wilderness Adventure (On Demand DVD-R)|Synergy Entertainment|2014-09-30 00:00:00|Pending|2.0|4:3|14.98|PG|1978|Drama|1.33:1|874757042596|2014-09-30 00:00:00|269657|2014-09-09 00:00:00|0
+Amish Mafia: Season 2|Discovery Channel||Out|2.0|LBX, 16:9|29.93|NR|2013|TV Classics|1.78:1|883476144245|2014-09-09 00:00:00|266574|2014-09-09 00:00:00|1
+Amityville Horror (1979/ Blu-ray) / The Amityville Horror (2005/ Blu-ray)|MGM/UA||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|19.99|R|VAR|Horror|1.85:1|883904320708|2014-09-09 00:00:00|267768|2014-09-09 00:00:00|1
+Amityville Horror Triple Feature|MGM/UA||Out|2.0|LBX, 16:9|19.98|R|VAR|Horror|1.85:1|883904320715|2014-09-09 00:00:00|267612|2014-09-09 00:00:00|1
+Animosity|Bloody Earth Films||Out|2.0|LBX, 16:9|19.98|NR|2013|Horror|2.35:1|612385010699|2014-09-09 00:00:00|267298|2014-09-09 00:00:00|1
+Anna Netrebko: Live From The Salzburg Festival|Deutsche Grammophon|2014-10-21 00:00:00|Pending|5.1/DTS|LBX, 16:9|32.98|NR|UNK|Music|1.78:1|044007351574|2014-10-21 00:00:00|269645|2014-09-09 00:00:00|0
+Anna Netrebko: Live From The Salzburg Festival (Blu-ray)|Deutsche Grammophon|2014-10-21 00:00:00|Pending|5.1/DTS|LBX, 16:9, BLU-RAY|49.98|NR|UNK|Music|1.78:1|044007351628|2014-10-21 00:00:00|269678|2014-09-09 00:00:00|0
+Any Given Sunday (Director's Cut/ 15th Anniversary Edition/ Blu-ray)|Warner Brothers||Out|5.1 TRUEHD|LBX, 16:9, BLU-RAY|19.98|NR|1999|Drama|2.35:1|883929413539|2014-09-09 00:00:00|265473|2014-09-09 00:00:00|1
+Bee People|True Mind||Out|2.0|LBX, 16:9|19.98|NR|2014|Documentary|1.78:1|826262011895|2014-09-09 00:00:00|267141|2014-09-09 00:00:00|1
+Beethoven: The 9 Symphonies: Herbert von Karajan (DVD/CD Combo)|Universal Music International||Out|2.0|4:3|74.98|NR|UNK|Music|1.33:1|028947934424|2014-09-09 00:00:00|268376|2014-09-09 00:00:00|1
+Beginners Guide To Mindfulness Meditation With Ira Israel: 10 Days To Change|BayView Films|2014-11-25 00:00:00|Pending|2.0|4:3|19.99|NR|2014|Special Interest|1.33:1|845121078107|2014-11-25 00:00:00|269698|2014-09-09 00:00:00|0
+Belle For Christmas|Anchor Bay|2014-11-04 00:00:00|Pending|2.0|4:3|19.98|PG|2014|Family|1.33:1|013132624174|2014-11-04 00:00:00|269687|2014-09-09 00:00:00|0
+Bermuda Tentacles|Asylum Home Entertainment||Out|2.0|LBX, 16:9|14.93|NR|2014|SciFi|1.78:1|883476144603|2014-09-09 00:00:00|266610|2014-09-09 00:00:00|1
+Bermuda Tentacles (Blu-ray)|Asylum Home Entertainment||Out|2.0|LBX, 16:9, BLU-RAY|19.93|NR|2014|SciFi|1.78:1|883476144610|2014-09-09 00:00:00|266605|2014-09-09 00:00:00|1
+Better Off Ted: The Complete 2nd Season|Olive Films|2014-11-04 00:00:00|Pending|2.0|LBX, 16:9|34.95|NR|2010|TV Classics|1.78:1|887090085601|2014-11-04 00:00:00|269641|2014-09-09 00:00:00|0
+Beyonce: The Profile (DVD/CD Combo)|Chrome Dreams||Out|2.0|4:3|17.99|NR|VAR|Special Interest|1.33:1|823564641720|2014-09-09 00:00:00|267600|2014-09-09 00:00:00|1
+Beyond Strong: On Ball With Jessica R.: Three Total Body Workouts|BayView Films|2014-11-25 00:00:00|Pending|2.0|4:3|19.99|NR|UNK|Exercise|1.33:1|812073020553|2014-11-25 00:00:00|269653|2014-09-09 00:00:00|0
+Bing Crosby: The Television Specials, Vol. 2: The Christmas Specials (Infinity Entertainment)|Infinity Entertainment||Discontinued|2.0|4:3|29.98|NR|VAR|TV Classics|1.33:1|617742223194|2010-11-09 00:00:00|189487|2014-09-09 00:00:00|1
+Bing Crosby: The Television Specials, Vol. 2: The Christmas Specials (Universal Music & Video)|Universal Music & Video|2014-10-21 00:00:00|Pending|2.0|4:3|24.98|NR|VAR|TV Classics|1.33:1|602537607549|2014-10-21 00:00:00|269635|2014-09-09 00:00:00|0
+Black Rider: Revelation Road 3|Pure Flix Entertainment||Out|2.0|LBX, 16:9|14.99|NR|2014|Action/Adventure|1.85:1|857533003677|2014-09-09 00:00:00|264687|2014-09-09 00:00:00|1
+Black Rider: Revelation Road 3 (Blu-ray)|Pure Flix Entertainment||Out|2.0|LBX, 16:9, BLU-RAY|14.99|NR|2014|Action/Adventure|1.85:1|857533003684|2014-09-09 00:00:00|264682|2014-09-09 00:00:00|1
+Blood Predator (Fenix Pictures)|Fenix Pictures||Out|2.0|LBX, 16:9|19.98|NR|2007|Horror|1.85:1|609408422393|2014-09-09 00:00:00|267446|2014-09-09 00:00:00|1
+Blue Bloods: The 1st - 4th Seasons: Four Season Pack|Paramount||Out|5.1|LBX, 16:9|119.98|NR|VAR|TV Classics|1.78:1|032429200259|2014-09-09 00:00:00|266171|2014-09-09 00:00:00|1
+Blue Bloods: The 4th Season|Paramount||Out|5.1|LBX, 16:9|64.99|NR|2013|TV Classics|1.78:1|097368049543|2014-09-09 00:00:00|266081|2014-09-09 00:00:00|1
+Bluff (2013): The Complete 1st Season|Lost Empire||Out|5.1|4:3|19.95|NR|2013|TV Classics|1.33:1|760137626794|2014-09-09 00:00:00|264576|2014-09-09 00:00:00|1
+Bob Ross: The Joy Of Painting: Summer Reflections|Bob Ross|2014-12-02 00:00:00|Pending|2.0|4:3|16.99|NR|UNK|Special Interest|1.33:1|720867010096|2014-12-02 00:00:00|269676|2014-09-09 00:00:00|0
+Bob Ross: The Joy Of Painting: Winter Harmony|Bob Ross||Out|2.0|4:3|16.99|NR|2014|Special Interest|1.33:1|720867010058|2014-09-09 00:00:00|267584|2014-09-09 00:00:00|1
+Bob Ross: The Joy Of Painting: Winter Nocturne|Bob Ross||Out|2.0|4:3|16.99|NR|2014|Special Interest|1.33:1|720867010065|2014-09-09 00:00:00|267528|2014-09-09 00:00:00|1
+Bombers Of WWII|Military Heritage Institute||Out|2.0|4:3|19.98|NR|UNK|Documentary|1.33:1|723721781965|2014-09-09 00:00:00|267430|2014-09-09 00:00:00|1
+Borgman|Drafthouse Films||Out|SUB|LBX, 16:9|24.99|NR|2013|Foreign|2.35:1|025192234941|2014-09-09 00:00:00|266631|2014-09-09 00:00:00|1
+Borgman (Blu-ray)|Drafthouse Films||Out|SUB|LBX, 16:9, BLU-RAY|29.93|NR|2013|Foreign|2.35:1|025192234958|2014-09-09 00:00:00|266608|2014-09-09 00:00:00|1
+Born To Race: Fast Track|Anchor Bay||Out|5.1|LBX, 16:9|22.98|PG|2014|Action/Adventure|2.35:1|013132622972|2014-09-09 00:00:00|266778|2014-09-09 00:00:00|1
+Born To Race: Fast Track (Blu-ray)|Anchor Bay||Out|5.1 TRUEHD|LBX, 16:9, BLU-RAY|26.99|PG|2014|Action/Adventure|2.35:1|013132622989|2014-09-09 00:00:00|266858|2014-09-09 00:00:00|1
+Brad Pitt 10-Action Movies|Echo Bridge|2014-11-18 00:00:00|Pending|2.0|4:3|14.99|NR|VAR|Action/Adventure|1.33:1|096009362546|2014-11-18 00:00:00|269670|2014-09-09 00:00:00|0
+Brick Mansions|Fox||Out|5.1|LBX, 16:9|29.98|PG-13|2014|Action/Adventure|2.35:1|024543969297|2014-09-09 00:00:00|267393|2014-09-09 00:00:00|1
+Brick Mansions (Blu-ray w/ Digital Copy)|Fox||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|39.99|PG-13|2014|Action/Adventure|2.35:1|024543969327|2014-09-09 00:00:00|267390|2014-09-09 00:00:00|1
+Bro, What Happened? (Unrated Director's Cut)|Uncork'd Entertainment|2014-10-07 00:00:00|Pending|2.0|4:3|14.98|NR|2014|Action/Adventure|1.33:1|816943011634|2014-10-07 00:00:00|269664|2014-09-09 00:00:00|0
+Broad City: Season 1|Comedy Central|2014-12-02 00:00:00|Pending|2.0|LBX, 16:9|26.99|NR|2014|TV Classics|1.78:1|032429209290|2014-12-02 00:00:00|269685|2014-09-09 00:00:00|0
+Burning Blue|Lions Gate||Out|2.0|LBX, 16:9|26.98|R|2013|Drama|1.85:1|031398202059|2014-09-09 00:00:00|265952|2014-09-09 00:00:00|1
+Captain America: The Winter Soldier|Buena Vista||Out|5.1|LBX, 16:9|29.99|PG-13|2014|Action/Adventure|2.35:1|786936842067|2014-09-09 00:00:00|265696|2014-09-09 00:00:00|1
+Captain America: The Winter Soldier (Blu-ray 3D/ Blu-ray w/ Digital Copy)|Buena Vista||Out|7.1 DTS-HD|LBX, 16:9, BLU-RAY|39.99|PG-13|2014|Action/Adventure|2.35:1|786936842173|2014-09-09 00:00:00|265629|2014-09-09 00:00:00|1
+Captain America: The Winter Soldier (Blu-ray)|Buena Vista||Out|7.1 DTS-HD|LBX, 16:9, BLU-RAY|32.99|PG-13|2014|Action/Adventure|2.35:1|786936842043|2014-09-09 00:00:00|265674|2014-09-09 00:00:00|1
+Carlos Kleiber: Complete Orchestral Recordings On Deutsche Grammophon (DVD/CD Combo)|Universal Music International||Out|2.0|4:3|55.92|NR|UNK|Music|1.33:1|028947926870|2014-09-09 00:00:00|268374|2014-09-09 00:00:00|1
+Carrie (1976/ 2-Disc)|MGM/UA||Out|5.1|LBX, 16:9|19.98|R|1976|Horror|1.85:1|883904320722|2014-09-09 00:00:00|267624|2014-09-09 00:00:00|1
+Carrie Collection (Blu-ray): Carrie (1976) / The Rage: Carrie 2|MGM/UA||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|29.99|R|VAR|Horror|1.85:1|883904320685|2014-09-09 00:00:00|267656|2014-09-09 00:00:00|1
+Cartoon Network: Uncle Grandpa: Tiger Trails, Vol. 1|Warner Brothers|2014-12-16 00:00:00|Pending|2.0|4:3|14.97|NR|2013|Animation|1.33:1|883929428151|2014-12-16 00:00:00|269690|2014-09-09 00:00:00|0
+Cellmates|Viva Pictures||Out|2.0|LBX, 16:9|14.98|NR|2011|Comedy|1.85:1|816943010286|2012-06-14 00:00:00|269655|2014-09-09 00:00:00|0
+Christmas Carol (1949/ On Demand DVD-R)|Synergy Entertainment|2014-09-30 00:00:00|Pending|2.0|4:3|14.98|NR|1949|Family|1.33:1|874757042497|2014-09-30 00:00:00|269644|2014-09-09 00:00:00|0
+Circa Survive: Violent Waves (DVD/CD Combo)|Sumerian Records||Out|2.0|4:3|13.98|NR|UNK|Music|1.33:1|817424014212|2014-09-09 00:00:00|268324|2014-09-09 00:00:00|1
+Classic Woodwright's Shop: Season 29|Popular Woodworking Books||Out|2.0|4:3|39.99|NR|2014|Special Interest|1.33:1|9781440336539|2014-09-12 00:00:00|259023|2014-09-09 00:00:00|1
+Cliff Barrows: Just As I Am: The Music Of The Billy Graham Crusades|Spring House|2014-10-14 00:00:00|Pending|2.0|4:3|17.98|NR|UNK|Music|1.33:1|617884901097|2014-10-14 00:00:00|269636|2014-09-09 00:00:00|0
+Clifford / Larger Than Life|TGG Direct||Out|2.0|4:3|15.98|PG|VAR|Family|1.33:1|011891800990|2014-09-05 00:00:00|269686|2014-09-09 00:00:00|0
+Clifford The Big Red Dog: Big Fun In The Sun|Family Home/Discovery Video||Out|2.0|4:3|14.98|NR|2003|Family|1.33:1|012236215172|2007-06-05 00:00:00|107393|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: Clifford Saves The Day|Family Home/Discovery Video||Out|2.0|4:3|14.98|NR|2003|Family|1.33:1|012236215165|2007-06-05 00:00:00|107392|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: Clifford's Schoolhouse|Family Home/Discovery Video||Out|2.0|4:3|14.98|NR|2001|Family|1.33:1|012236215158|2007-06-05 00:00:00|107399|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: Clifford: Best Buddies|Family Home/Discovery Video||Out|2.0|4:3|9.98|NR|UNK|Family|1.33:1|012236113331|2011-02-01 00:00:00|193771|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: Everyone Loves Clifford! / Good Friends, Good Times|Family Home/Discovery Video||Out|2.0|4:3|7.97|NR|VAR|Family|1.33:1|012236170983|2005-02-01 00:00:00|56255|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: Happy Birthday Clifford!|Family Home/Discovery Video||Discontinued|2.0|4:3|14.98|NR|2002|Family|1.33:1|012236215189|2007-06-05 00:00:00|107398|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: Playtime With Clifford|Family Home/Discovery Video||Out|2.0|4:3|14.98|NR|2006|Family|1.33:1|012236224334|2008-01-08 00:00:00|124235|2014-09-09 00:00:00|1
+Clifford The Big Red Dog: The Best Of Clifford The Big Red Dog (5-Disc)|Family Home/Discovery Video||Out|2.0|4:3|24.98|NR|VAR|Family|1.33:1|031398204848|2006-11-07 00:00:00|92471|2014-09-09 00:00:00|1
+Comforting Skin|Uncork'd Entertainment|2014-10-07 00:00:00|Pending|2.0|4:3|14.98|NR|2011|Fantasy|1.33:1|816943011603|2014-10-07 00:00:00|269640|2014-09-09 00:00:00|0
+Coopers' Christmas|Anchor Bay||Out|2.0|LBX, 16:9|9.98|NR|2008|Comedy|1.85:1|013132190891|2010-11-16 00:00:00|187731|2014-09-09 00:00:00|1
+Cotton Comes To Harlem (Kino Lorber Studio Classics)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9|19.95|R|1970|Action/Adventure|1.85:1|738329138325|2014-09-09 00:00:00|267467|2014-09-09 00:00:00|1
+Cotton Comes To Harlem (Kino Lorber Studio Classics/ Blu-ray)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9, BLU-RAY|29.95|R|1970|Action/Adventure|1.85:1|738329138424|2014-09-09 00:00:00|267396|2014-09-09 00:00:00|1
+Crazy Dog|One 7 Movies||Out|SUB|LBX, 16:9|19.95|NR|2012|Foreign|1.85:1|812592015221|2014-09-09 00:00:00|267973|2014-09-09 00:00:00|1
+Crow: Salvation (Miramax Lions Gate)|Miramax Lions Gate||Out|5.1|LBX, 16:9|9.98|R|2000|SciFi|1.85:1|031398177388|2014-09-09 00:00:00|265985|2014-09-09 00:00:00|1
+Curse Of Oak Island|A&E Video||Out|2.0|LBX, 16:9|14.98|NR|2004|TV Classics|1.78:1|031398202424|2014-09-09 00:00:00|266105|2014-09-09 00:00:00|1
+Dads: The Complete Series|Olive Films|2014-11-04 00:00:00|Pending|2.0|LBX, 16:9|34.95|NR|2013|TV Classics|1.78:1|887090085502|2014-11-04 00:00:00|269667|2014-09-09 00:00:00|0
+Danny Thomas Show: Road To Lebanon (On Demand DVD-R)|Synergy Entertainment|2014-09-30 00:00:00|Pending|2.0|4:3|14.98|NR|1966|TV Classics|1.33:1|874757043197|2014-09-30 00:00:00|269694|2014-09-09 00:00:00|0
+David Bowie: Becoming Bowie (2-Disc)|Pride||Out|2.0|4:3|26.95|NR|UNK|Music|1.33:1|823564539294|2014-09-09 00:00:00|267035|2014-09-09 00:00:00|1
+Dead Within|Millennium Media Services||Out|2.0|LBX, 16:9|19.99|NR|2014|Horror|1.85:1|687797157997|2014-09-09 00:00:00|267091|2014-09-09 00:00:00|1
+DeadHeads|FreeStyle Digital Media||Out|2.0|LBX, 16:9|6.99|R|2011|Action/Comedy|1.78:1|850153003102|2014-09-09 00:00:00|266701|2014-09-09 00:00:00|1
+Doc McStuffins: School Of Medicine|Buena Vista||Out|2.0|LBX, 16:9|19.99|NR|UNK|Animation|1.78:1|786936841992|2014-09-09 00:00:00|266391|2014-09-09 00:00:00|1
+Doctor Who (2005): Deep Breath|BBC Home Video||Out|2.0|LBX, 16:9|19.98|NR|2014|TV Classics|1.78:1|883929428700|2014-09-09 00:00:00|267956|2014-09-09 00:00:00|1
+Doctor Who (2005): Deep Breath (Blu-ray)|BBC Home Video||Out|2.0|LBX, 16:9, BLU-RAY|24.98|NR|2014|TV Classics|1.78:1|883929428717|2014-09-09 00:00:00|267940|2014-09-09 00:00:00|1
+Donizetti: Belisario|Bongiovanni||Out|2.0|4:3|32.99|NR|UNK|Opera|1.33:1|8007068200276|2014-09-09 00:00:00|268511|2014-09-09 00:00:00|1
+Dora The Explorer: Celebrate With Dora|Nickelodeon||Out|2.0|LBX, 16:9|21.99|NR|UNK|Family|1.78:1|032429200990|2014-09-09 00:00:00|266048|2014-09-09 00:00:00|1
+Drunk History: Seasons 1 & 2|Comedy Central|2014-11-25 00:00:00|Pending|2.0|LBX, 16:9|29.99|NR|VAR|TV Classics|1.78:1|097368070448|2014-11-25 00:00:00|269701|2014-09-09 00:00:00|0
+Dvorak In Love?|Firefly Entertainment||Out|2.0|LBX, 16:9|19.99|NR|UNK|Music|1.78:1|5055810319373|2014-09-09 00:00:00|267939|2014-09-09 00:00:00|1
+Dynasty (1981): The 9th Season: The Final Season|Paramount||Out|2.0|4:3|69.99|NR|1988|TV Classics|1.33:1|032429200266|2014-09-09 00:00:00|266180|2014-09-09 00:00:00|1
+Dynasty (1981): The 9th Season: The Final Season, Vol. 1|Paramount||Out|2.0|4:3|39.98|NR|1988|TV Classics|1.33:1|032429155924|2014-09-09 00:00:00|266110|2014-09-09 00:00:00|1
+Dynasty (1981): The 9th Season: The Final Season, Vol. 2|Paramount||Out|2.0|4:3|39.98|NR|1989|TV Classics|1.33:1|032429157720|2014-09-09 00:00:00|266032|2014-09-09 00:00:00|1
+Elementary Algebra Videos On DVD With Chapter Test Prep Videos: Concepts & Applications (DVD-ROM)|Pearson||Out|2.0|4:3|35.33|NR|2013|Special Interest|1.33:1|9780321848239|2014-09-12 00:00:00|237604|2014-09-09 00:00:00|1
+En La Brecha: DVD Para Grupo Pequenos (DVD-ROM)|Influence Resources||Out|2.0|4:3|24.99|NR|2014|Special Interest|1.33:1|9781629121000|2014-09-09 00:00:00|265164|2014-09-09 00:00:00|1
+En La Brecha: Juego De Materiales Para Grupo Pequenos (DVD-ROM)|Influence Resources||Out|2.0|4:3|34.99|NR|2014|Special Interest|1.33:1|9781629121154|2014-09-09 00:00:00|265077|2014-09-09 00:00:00|1
+Family Triple Feature|Inception Media Group||Out|2.0|LBX, 16:9|12.98|G|VAR|Family|1.85:1|815300012529|2014-09-09 00:00:00|266406|2014-09-09 00:00:00|1
+Fed Up|Anchor Bay||Out|2.0|LBX, 16:9|24.98|PG|2014|Documentary|1.85:1|013132621388|2014-09-09 00:00:00|267038|2014-09-09 00:00:00|1
+Fed Up (Blu-ray)|Anchor Bay||Out|2.0|LBX, 16:9, BLU-RAY|29.99|PG|2014|Documentary|1.85:1|013132621395|2014-09-09 00:00:00|267045|2014-09-09 00:00:00|1
+Flowers In The Attic (1987/ Image/ Blu-ray/ Remastered)|Image||Out|2.0 DTS-HD|LBX, 16:9, BLU-RAY|17.97|PG-13|1987|Mystery/Suspense|1.85:1|014381001358|2014-09-09 00:00:00|267276|2014-09-09 00:00:00|1
+Funny Thing Happened On The Way To The Forum (Kino Lorber Studio Classics)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9|19.95|NR|1966|Comedy|1.85:1|738329137724|2014-09-09 00:00:00|267368|2014-09-09 00:00:00|1
+Funny Thing Happened On The Way To The Forum (Kino Lorber Studio Classics/ Blu-ray)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9, BLU-RAY|29.95|NR|1966|Comedy|1.85:1|738329137823|2014-09-09 00:00:00|267432|2014-09-09 00:00:00|1
+Galapagos Affair: Satan Came To Eden|Zeitgeist||Out|2.0|LBX, 16:9|29.99|NR|2013|Documentary|1.78:1|795975116435|2014-09-09 00:00:00|266738|2014-09-09 00:00:00|1
+Ghosts, Goblins & Ghouls|Anderson Merchandisers||Out|2.0|4:3|10.99|NR|VAR|Family|1.33:1|037117033850|2014-09-09 00:00:00|265879|2014-09-09 00:00:00|1
+Gliere: Symphony No. 3 'Il'ya Murometz': Buffalo Philharmonic Orchestra (Audio Only Blu-ray)|Naxos||Out|2.0|4:3, BLU-RAY|19.99|NR|UNK|Music|1.33:1|730099004169|2014-09-09 00:00:00|268474|2014-09-09 00:00:00|1
+God's Pocket|IFC||Out|5.1|LBX, 16:9|24.98|R|2014|Drama|2.35:1|030306938592|2014-09-09 00:00:00|266450|2014-09-09 00:00:00|1
+God's Pocket (Blu-ray)|IFC||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|29.98|R|2014|Drama|2.35:1|030306193397|2014-09-09 00:00:00|266367|2014-09-09 00:00:00|1
+Godzilla 2000 (Blu-ray)|Sony Pictures||Out|5.1 TRUEHD|LBX, 16:9, BLU-RAY|19.99|PG|2000|SciFi|2.35:1|043396446588|2014-09-09 00:00:00|267793|2014-09-09 00:00:00|1
+Godzilla Against Mechagodzilla (Blu-ray) / Godzilla, Mothra, And King Ghidorah: Giant Monsters All-Out Attack (Blu-ray)|Sony Pictures||Out|SUB|LBX, 16:9, BLU-RAY|19.99|NR|VAR|SciFi|2.35:1|043396446571|2014-09-09 00:00:00|267777|2014-09-09 00:00:00|1
+Goldbergs (2013): The Complete 1st Season (DVD & Blu-ray DualDisc)|Sony Pictures||Out|2.0|LBX, 16:9|45.99|NR|2013|TV Classics|1.78:1|043396440845|2014-09-09 00:00:00|266211|2014-09-09 00:00:00|1
+Graduation Day (1981/ Vinegar Syndrome/ DVD & Blu-ray Combo)|Vinegar Syndrome||Out|2.0|LBX, 16:9, BLU-RAY|24.98|R|1981|Horror|1.85:1|855011004512|2014-09-09 00:00:00|267555|2014-09-09 00:00:00|1
+Grave Robber: How Jesus Can Make Your Impossible Possible (DVD-ROM)|Baker Publishing Group||Out|2.0|4:3|24.99|NR|2014|Special Interest|1.33:1|9780801015953|2014-09-09 00:00:00|260497|2014-09-09 00:00:00|1
+Great American West Of John Ford (On Demand DVD-R)|Synergy Entertainment|2014-09-30 00:00:00|Pending|2.0|4:3|14.98|NR|1971|Documentary|1.33:1|874757040493|2014-09-30 00:00:00|269683|2014-09-09 00:00:00|0
+Gunsmoke: The 11th Season, Vol. 1|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|49.99|NR|1965|TV Classics|1.33:1|032429206398|2014-12-02 00:00:00|269647|2014-09-09 00:00:00|0
+Gunsmoke: The 11th Season, Vol. 2|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|49.99|NR|1966|TV Classics|1.33:1|032429206411|2014-12-02 00:00:00|269706|2014-09-09 00:00:00|0
+Halloween Double Feature (Blu-ray): All Hallows' Eve / Mischief Night (2013)|Image||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|19.98|NR|VAR|Horror|2.35:1|014381001662|2014-09-09 00:00:00|267143|2014-09-09 00:00:00|1
+Halloween Fun Pack: Scary Godmother: Halloween Spooktakular / Wubbzy Goes Boo! / Scary Godmother: The Revenge Of Jimmy / ...|Anchor Bay||Out|2.0|VAR|14.98|NR|VAR|Animation|VAR|013132624082|2014-09-09 00:00:00|266841|2014-09-09 00:00:00|1
+Hangmen Also Die (Cohen Media Group)|Cohen Media Group||Out|2.0|4:3|29.98|NR|1943|Mystery/Suspense|1.37:1|741952739890|2014-09-09 00:00:00|267389|2014-09-09 00:00:00|1
+Hangmen Also Die (Cohen Media Group/ Blu-ray)|Cohen Media Group||Out|2.0|4:3, BLU-RAY|39.98|NR|1943|Mystery/Suspense|1.37:1|741952739999|2014-09-09 00:00:00|267440|2014-09-09 00:00:00|1
+Happy Christmas|Paramount|2014-11-11 00:00:00|Pending|2.0|LBX, 16:9|21.99|R|2014|Comedy|1.85:1|032429201515|2014-11-11 00:00:00|269671|2014-09-09 00:00:00|0
+Happy Days (1974): The Complete 1st - 6th Seasons|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|145.99|NR|VAR|TV Classics|1.33:1|032429206374|2014-12-02 00:00:00|269656|2014-09-09 00:00:00|0
+Happy Days (1974): The Complete 6th Season|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|42.99|NR|1978|TV Classics|1.33:1|032429155955|2014-12-02 00:00:00|269672|2014-09-09 00:00:00|0
+Haunted House 2 (DVD & Blu-ray Combo/ Rental Ready)|Universal||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|34.98|R|2014|Horror|1.85:1|025192211959|2014-09-09 00:00:00|265370|2014-09-09 00:00:00|1
+Haunted House 2 (Rental Ready)|Universal||Out|5.1|LBX, 16:9|29.98|R|2014|Horror|1.85:1|025192211942|2014-09-09 00:00:00|265353|2014-09-09 00:00:00|1
+Headspace (2005/ FreeStyle Digital Media)|FreeStyle Digital Media||Out|5.1|LBX, 16:9|6.99|R|2005|Horror|1.78:1|850153003164|2014-09-09 00:00:00|267059|2014-09-09 00:00:00|1
+Here Comes Honey Boo Boo: A Very Boo Halloween|TLC||Out|2.0|LBX, 16:9|29.93|NR|2013|TV Classics|1.78:1|883476144047|2014-09-09 00:00:00|266495|2014-09-09 00:00:00|1
+History Channel Presents: Ancient Aliens: The Complete Seasons 1-6|A&E Video|2014-11-11 00:00:00|Pending|2.0|4:3|99.98|NR|VAR|Documentary|1.33:1|031398207634|2014-11-11 00:00:00|269652|2014-09-09 00:00:00|0
+History Channel Presetns: The World Wars|A&E Video||Out|2.0|LBX, 16:9|26.98|NR|2014|Documentary|1.78:1|031398196693|2014-09-09 00:00:00|266200|2014-09-09 00:00:00|1
+History Channel Presetns: The World Wars (Blu-ray)|A&E Video||Out|2.0|LBX, 16:9, BLU-RAY|29.99|NR|2014|Documentary|1.78:1|031398196716|2014-09-09 00:00:00|265967|2014-09-09 00:00:00|1
+History Of The RAF|Military Heritage Institute||Out|2.0|4:3|19.98|NR|UNK|Documentary|1.33:1|723721782061|2014-09-09 00:00:00|267470|2014-09-09 00:00:00|1
+Holiday Hijinks: All Is Bright / Coopers' Christmas / All She Wants For Christmas / Nothing Like The Holidays|Anchor Bay|2014-11-04 00:00:00|Pending|5.1|LBX, 16:9|19.98|VAR|VAR|Comedy|VAR|013132625089|2014-11-04 00:00:00|269650|2014-09-09 00:00:00|0
+Homeland (2011): The Complete 3rd Season|Fox||Out|5.1|LBX, 16:9|39.98|NR|2013|TV Classics|1.78:1|024543899297|2014-09-09 00:00:00|267182|2014-09-09 00:00:00|1
+Homeland (2011): The Complete 3rd Season (Blu-ray)|Fox||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|49.99|NR|2013|TV Classics|1.78:1|024543899310|2014-09-09 00:00:00|267180|2014-09-09 00:00:00|1
+Hornet's Nest|Anderson Digital||Out|2.0|LBX, 16:9|20.99|R|2014|Documentary|1.85:1|037117034772|2014-09-09 00:00:00|266726|2014-09-09 00:00:00|1
+Hornet's Nest (Blu-ray)|Anderson Digital||Out|2.0|LBX, 16:9, BLU-RAY|24.99|R|2014|Documentary|1.85:1|037117034765|2014-09-09 00:00:00|266719|2014-09-09 00:00:00|1
+Horror Mansion: The Blind|Tokyo Shock||Out|SUB|LBX, 16:9|19.98|NR|2011|Foreign|1.85:1|631595140682|2014-09-09 00:00:00|267486|2014-09-09 00:00:00|1
+Horror Triple Feature, Vol. 2: A Haunting At Silver Falls / Back From Hell / Creep Van|Inception Media Group||Out|2.0|LBX, 16:9|12.98|NR|VAR|Horror|1.85:1|815300012215|2014-09-09 00:00:00|266430|2014-09-09 00:00:00|1
+House (1986/ Image)/ House II: The Second Story|Image||Out|2.0|LBX, 16:9|14.98|VAR|VAR|Horror|1.85:1|014381001396|2014-09-09 00:00:00|267018|2014-09-09 00:00:00|1
+How To Train Your Dragon 2|Fox|2014-11-11 00:00:00|Pending|5.1|LBX, 16:9|29.98|PG|2014|Animation|2.35:1|024543914839|2014-11-11 00:00:00|269702|2014-09-09 00:00:00|0
+How To Train Your Dragon 2 (Blu-ray 3D/ DVD & Blu-ray Combo w/ Digital Copy)|Fox|2014-11-11 00:00:00|Pending|5.1 DTS-HD|LBX, 16:9, BLU-RAY|48.99|PG|2014|Animation|2.35:1|024543915362|2014-11-11 00:00:00|269666|2014-09-09 00:00:00|0
+How To Train Your Dragon 2 (DVD & Blu-ray Combo w/ Digital Copy)|Fox|2014-11-11 00:00:00|Pending|5.1 DTS-HD|LBX, 16:9, BLU-RAY|38.99|PG|2014|Animation|2.35:1|024543915157|2014-11-11 00:00:00|269697|2014-09-09 00:00:00|0
+Hunted (2013)|E1 Entertainment||Out|2.0|LBX, 16:9|19.98|PG-13|2013|Horror|1.85:1|741952776796|2014-09-09 00:00:00|267347|2014-09-09 00:00:00|1
+Ian Hunter: Strings Attached (M.I.G. Music)|M.I.G. Music||Out|2.0|4:3|22.95|NR|UNK|Music|1.33:1|885513500274|2014-09-09 00:00:00|267550|2014-09-09 00:00:00|1
+In The Gap: DVD For Small Group (DVD-ROM)|Influence Resources||Out|2.0|4:3|24.99|NR|2014|Special Interest|1.33:1|9781629120997|2014-09-09 00:00:00|265142|2014-09-09 00:00:00|1
+Interactive Haematology Imagebank (DVD-ROM)|Blackwell||Out|2.0|4:3|371.5|NR|2013|Special Interest|1.33:1|9780470670491|2014-09-09 00:00:00|231820|2014-09-09 00:00:00|1
+Iron Sheik: Maim Event Wrestling|BayView Films|2014-12-02 00:00:00|Pending|2.0|4:3|14.99|NR|UNK|Special Interest|1.33:1|802993216808|2014-12-02 00:00:00|269696|2014-09-09 00:00:00|0
+Jay Ungar: The Original Transatlantic Sessions|Whirlie Records||Out|2.0|4:3|37.99|NR|UNK|Music|1.33:1|5023850000001|2014-09-09 00:00:00|268029|2014-09-09 00:00:00|1
+Jeepers Creepers (Blu-ray) / Jeepers Creepers 2 (Blu-ray)|MGM/UA||Out|5.1 DTS-HD|LBX, 16:9|19.99|R|VAR|Horror|VAR|883904299684|2014-09-09 00:00:00|267774|2014-09-09 00:00:00|1
+Jennifer's Body (R-Rated Version & Unrated Version/ Blu-ray)|Fox||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|11.99|R/UR|2009|Horror|1.85:1|024543985112|2014-09-09 00:00:00|267688|2014-09-09 00:00:00|1
+Jet Bombers (3-Disc)|Military Heritage Institute||Out|2.0|4:3|19.98|NR|UNK|Documentary|1.33:1|723721781668|2014-09-09 00:00:00|267453|2014-09-09 00:00:00|1
+Juggernaut (1974/ Kino Lorber Studio Classics)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9|19.95|PG|1974|Thriller|1.66:1|738329137922|2014-09-09 00:00:00|267480|2014-09-09 00:00:00|1
+Juggernaut (1974/ Kino Lorber Studio Classics/ Blu-ray)|Kino Lorber Studio Classics||Out|2.0|LBX, 16:9, BLU-RAY|29.95|PG|1974|Thriller|1.66:1|738329138028|2014-09-09 00:00:00|267402|2014-09-09 00:00:00|1
+Killer Mermaid|Epic Pictures||Out|2.0|LBX, 16:9|14.99|NR|2014|Horror|1.85:1|687797948199|2014-09-09 00:00:00|267104|2014-09-09 00:00:00|1
+King Of The Hill (1997): The Complete 7th Season|Olive Films|2014-11-04 00:00:00|Pending|2.0|4:3|34.95|NR|2003|Animation|1.33:1|887090085700|2014-11-04 00:00:00|269703|2014-09-09 00:00:00|0
+King Of The Hill (1997): The Complete 8th Season|Olive Films|2014-11-04 00:00:00|Pending|2.0|4:3|34.95|NR|2004|Animation|1.33:1|887090085809|2014-11-04 00:00:00|269665|2014-09-09 00:00:00|0
+Korengal|Virgil Films and Entertainment||Out|2.0|LBX, 16:9|19.99|NR|2014|Documentary|1.85:1|829567106426|2014-09-09 00:00:00|266219|2014-09-09 00:00:00|1
+Korengal (Blu-ray)|Virgil Films and Entertainment||Out|2.0|LBX, 16:9, BLU-RAY|19.99|NR|2014|Documentary|1.85:1|829567106723|2014-09-09 00:00:00|265966|2014-09-09 00:00:00|1
+Last Of Summer Wine: Vintage 2002|BBC Home Video|2014-11-11 00:00:00|Pending|2.0|4:3|34.98|NR|2002|TV Classics|1.33:1|883929448074|2014-11-11 00:00:00|269633|2014-09-09 00:00:00|0
+Last Outlaw (UNK)|North American Motion Pictures||Out|2.0|LBX, 16:9|14.93|NR|UNK|Suspense/Thriller|1.85:1|883476144788|2014-09-09 00:00:00|266638|2014-09-09 00:00:00|1
+Last Passenger|Cohen Media Group||Out|2.0|LBX, 16:9|20.99|R|2013|Action/Adventure|2.35:1|037117034611|2014-09-09 00:00:00|266723|2014-09-09 00:00:00|1
+Last Passenger (Blu-ray)|Cohen Media Group||Out|2.0|LBX, 16:9, BLU-RAY|24.99|R|2013|Action/Adventure|2.35:1|037117034604|2014-09-09 00:00:00|266684|2014-09-09 00:00:00|1
+LeapFrog Factory Adventures: Counting On Lemonade (w/ Digital Copy)|Lions Gate||Out|2.0|4:3|14.98|NR|UNK|Family|1.33:1|031398202493|2014-09-09 00:00:00|266133|2014-09-09 00:00:00|1
+Learn To Crochet Lace: Hairpin, Broomstick & Bruges; With Instructor Ellen Gormley|Annie's Attic||Out|2.0|4:3|24.99|NR|2014|Special Interest|1.33:1|9781573674485|2014-09-15 00:00:00|267536|2014-09-09 00:00:00|1
+Legend Of Big Foot (On Demand DVD-R)|Synergy Entertainment|2014-09-30 00:00:00|Pending|2.0|4:3|14.98|NR|1976|Documentary|1.33:1|874757040790|2014-09-30 00:00:00|269660|2014-09-09 00:00:00|0
+Legend Of Korra: Book 3: Change|Nickelodeon|2014-12-02 00:00:00|Pending|5.1|LBX, 16:9|19.99|NR|2014|Animation|1.78:1|032429208330|2014-12-02 00:00:00|269681|2014-09-09 00:00:00|0
+Legend Of Korra: Book 3: Change (Blu-ray)|Nickelodeon|2014-12-02 00:00:00|Pending|5.1 DTS-HD|LBX, 16:9, BLU-RAY|34.99|NR|2014|Animation|1.78:1|032429208347|2014-12-02 00:00:00|269699|2014-09-09 00:00:00|0
+Legend Of The 5ive|Fenix Pictures||Out|2.0|LBX, 16:9|19.98|NR|2012|Horror|1.78:1|609408422614|2014-09-09 00:00:00|267375|2014-09-09 00:00:00|1
+Lemony Snicket's A Series Of Unfortunate Events (Warner Brothers/ Blu-ray)|Warner Brothers||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|14.97|PG|2004|Family|1.85:1|883929406920|2014-09-09 00:00:00|265442|2014-09-09 00:00:00|1
+Let's Learn: 1,2,3s, ABCs, Colors|Nickelodeon||Out|2.0|4:3|26.99|NR|UNK|Family|1.33:1|032429155665|2014-09-09 00:00:00|265974|2014-09-09 00:00:00|1
+Let's Learn: Patterns & Shapes|Nickelodeon||Out|2.0|4:3|14.99|NR|UNK|Family|1.33:1|097368042841|2014-09-09 00:00:00|266246|2014-09-09 00:00:00|1
+Lifeforce (Shout! Factory/ Blu-ray)|Shout! Factory||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|22.97|R|1985|Horror|2.35:1|826663155938|2014-09-09 00:00:00|269566|2014-09-09 00:00:00|1
+Like A Country Song|CMD Distribution||Out|2.0|LBX, 16:9|19.98|PG-13|2014|Family|1.85:1|700115804486|2014-09-09 00:00:00|267427|2014-09-09 00:00:00|1
+Listen To Me, Girls. I Am Your Father!: Complete Collection (Blu-ray)|Sentai FilmWorks||Out|SUB|LBX, 16:9, BLU-RAY|59.98|MA13|2012|Anime|1.85:1|814131019455|2014-09-09 00:00:00|265076|2014-09-09 00:00:00|1
+Little House On The Prairie (1974/ Lions Gate): Season 3|Lions Gate||Out|2.0|4:3|21.98|NR|1976|TV Classics|1.33:1|031398202479|2014-09-09 00:00:00|266177|2014-09-09 00:00:00|1
+Little House On The Prairie (1974/ Lions Gate): Season 3 (Blu-ray)|Lions Gate||Out|2.0|4:3, BLU-RAY|24.99|NR|1976|TV Classics|1.33:1|031398202486|2014-09-09 00:00:00|266064|2014-09-09 00:00:00|1
+Long Way Down (2014)|Magnolia Pictures||Out|2.0|LBX, 16:9|26.98|R|2014|Comedy|1.85:1|876964007078|2014-09-09 00:00:00|266685|2014-09-09 00:00:00|1
+Long Way Down (2014/ Blu-ray)|Magnolia Pictures||Out|2.0|LBX, 16:9, BLU-RAY|29.98|R|2014|Comedy|1.85:1|876964007085|2014-09-09 00:00:00|266718|2014-09-09 00:00:00|1
+Louder Than Words|ARC Entertainment||Out|2.0|LBX, 16:9|20.99|PG-13|2013|Family|1.85:1|796019828468|2014-09-09 00:00:00|266732|2014-09-09 00:00:00|1
+Lowlife|Brink||Out|2.0|LBX, 16:9|19.95|NR|2012|Suspense/Thriller|1.78:1|187830005570|2014-09-09 00:00:00|264474|2014-09-09 00:00:00|1
+Luftwaffe|Military Heritage Institute||Out|2.0|4:3|19.98|NR|UNK|Documentary|1.33:1|723721782566|2014-09-09 00:00:00|267416|2014-09-09 00:00:00|1
+Maceo Parker: My First Name Is Maceo|Minor Music||Out|5.1|4:3|17.99|NR|1996|Music|1.33:1|033585510992|2014-09-09 00:00:00|267875|2014-09-09 00:00:00|1
+Mantervention|Vision Films||Out|2.0|4:3|14.99|NR|2014|Comedy|1.33:1|687797946997|2014-09-09 00:00:00|265788|2014-09-09 00:00:00|1
+Maybe Tomorrow|Purposeful Vision Media||Out|2.0|LBX, 16:9|19.98|NR|2012|Drama|1.85:1|817358030197|2014-09-09 00:00:00|259141|2014-09-09 00:00:00|1
+Midnight Special|Time Life||Out|2.0|LBX, 16:9|12.95|NR|VAR|Music|1.78:1|610583486094|2014-09-09 00:00:00|266934|2014-09-09 00:00:00|1
+Midnight Special (Collector's Edition)|Time Life||Out|2.0|LBX, 16:9|59.95|NR|VAR|Music|1.78:1|610583486193|2014-09-09 00:00:00|266975|2014-09-09 00:00:00|1
+Mike Zito And The Wheel: Songs From The Road (DVD/CD Combo)|Ruf Records||Out|2.0|4:3|18.99|NR|UNK|Music|1.33:1|710347120629|2014-09-09 00:00:00|267488|2014-09-09 00:00:00|1
+MLB: Baseball's Greatest Games: New York Yankees Postseason Heroics|A&E Video||Out|2.0|LBX, 16:9|19.98|NR|UNK|Sports|1.78:1|031398202462|2014-09-09 00:00:00|266682|2014-09-09 00:00:00|1
+MoniKa (2013)|Inception Media Group||Out|2.0|LBX, 16:9|26.98|NR|2012|Action/Adventure|1.85:1|815300012383|2014-09-09 00:00:00|266311|2014-09-09 00:00:00|1
+Monkey Boy|Chemical Burn Entertainment||Out|2.0|LBX, 16:9|19.98|NR|1996|Horror|1.85:1|887936838569|2014-09-09 00:00:00|267434|2014-09-09 00:00:00|1
+Mood Indigo|Drafthouse Films|2014-11-11 00:00:00|Pending|SUB|LBX, 16:9|24.99|NR|2013|Foreign|1.85:1|025192261992|2014-11-11 00:00:00|269648|2014-09-09 00:00:00|0
+Mood Indigo (Blu-ray)|Drafthouse Films|2014-11-11 00:00:00|Pending|SUB|LBX, 16:9, BLU-RAY|29.93|NR|2013|Foreign|1.85:1|025192262159|2014-11-11 00:00:00|269693|2014-09-09 00:00:00|0
+Morrissey: Introducing Morrissey|Rhino||Out|2.0|4:3|19.99|NR|UNK|Music|1.33:1|603497902941|2014-09-09 00:00:00|268283|2014-09-09 00:00:00|1
+Most Wanted Man (Blu-ray w/ Digital Copy)|Lions Gate|2014-11-04 00:00:00|Pending|2.0|LBX, 16:9, BLU-RAY|29.99|R|2014|Suspense/Thriller|2.35:1|031398204930|2014-11-04 00:00:00|269632|2014-09-09 00:00:00|0
+Most Wanted Man (w/ Digital Copy)|Lions Gate|2014-11-04 00:00:00|Pending|5.1|LBX, 16:9|26.98|R|2014|Suspense/Thriller|2.35:1|031398204893|2014-11-04 00:00:00|269662|2014-09-09 00:00:00|0
+Ms. Bear|Questar||Out|2.0|4:3|19.99|NR|1997|Family|1.33:1|033937048364|2014-09-02 00:00:00|269682|2014-09-09 00:00:00|0
+MurderDrome|Camp Motion Pictures||Out|2.0|LBX, 16:9|19.98|NR|2013|Horror|1.85:1|612385010590|2014-09-09 00:00:00|267352|2014-09-09 00:00:00|1
+My Little Pony: Friendship Is Magic: Spooktacular Pony Tales|Shout! Factory||Out|2.0|LBX, 16:9|14.97|NR|UNK|Family|1.78:1|826663151893|2014-09-09 00:00:00|265279|2014-09-09 00:00:00|1
+My Man Is A Loser|Lions Gate||Out|5.1|LBX, 16:9|26.98|R|2014|Comedy|1.85:1|031398202028|2014-09-09 00:00:00|266139|2014-09-09 00:00:00|1
+My Mother's Future Husband|Bridgestone Group||Out|2.0|LBX, 16:9|19.98|NR|2014|Family|1.78:1|095163886530|2014-09-09 00:00:00|267145|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004) / Gentlemen Broncos / The 41-Year-Old Virgin Who Knocked Up Sarah Marshall And Felt Superbad About It|Fox||Out|VAR|LBX, 16:9|22.98|VAR|VAR|Comedy|1.85:1|024543821069|2012-07-31 00:00:00|228503|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004) / Revenge Of The Nerds|Fox||Out|SUR|LBX, 16:9|14.98|VAR|VAR|Comedy|1.85:1|024543676904|2010-08-03 00:00:00|182559|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Blu-ray)|Fox||Discontinued|5.1 DTS-HD|LBX, 16:9, BLU-RAY|16.99|PG|2004|Comedy|1.85:1|024543563594|2009-02-03 00:00:00|148399|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Collector's Edition/ 2-Disc)|Fox||Discontinued|5.1|LBX, 16:9|26.98|PG|2004|Comedy|1.85:1|024543240433|2006-05-16 00:00:00|81165|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Collector's Edition/ 2-Disc/ Flippin' Sweet Collector's Set w/ 2 Head Knockers w/ iPod Nano Skins)|Fox||Out|5.1|LBX, 16:9|49.98|PG|2004|Comedy|1.85:1|024543242826|2007-07-10 00:00:00|114759|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ DVD & Blu-ray Combo)|Fox||Discontinued|5.1 DTS-HD|LBX, 16:9, BLU-RAY|19.99|PG|2004|Comedy|1.85:1|024543671879|2010-04-06 00:00:00|179519|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Rental Ready)|Fox||Discontinued|SUR|LBX, 16:9|29.98|PG|2004|Comedy|1.85:1|024543143994|2004-12-21 00:00:00|174510|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Special Edition w/ Digital Copy)|Fox||Discontinued|SUR|LBX, 16:9|14.98|PG|2004|Comedy|1.85:1|024543534839|2008-09-23 00:00:00|140368|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Special Edition)|Fox||Discontinued|SUR|LBX, 16:9|14.98|PG|2004|Comedy|1.85:1|024543143925|2004-12-21 00:00:00|51791|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Special Edition) / Girl Next Door (2004/ Special Edition/ R-Rated Version) (Back-To-Back)|Fox||Discontinued|VAR|4:3 P&S, LBX, 16:9|34.98|VAR|VAR|Comedy|1.85:1|024543194859|2005-06-28 00:00:00|64599|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ Special Edition) / Girl Next Door (2004/ Special Edition/ R-Rated Version) (Side-By-Side)|Fox||Discontinued|VAR|4:3 P&S, LBX, 16:9|34.98|VAR|VAR|Comedy|1.85:1|024543194804|2005-06-28 00:00:00|64602|2014-09-09 00:00:00|1
+Napoleon Dynamite (2004/ UMD)|Fox||Discontinued|SUR|LBX, 16:9, UMD|29.98|PG|2004|Comedy|1.85:1|024543197386|2005-07-05 00:00:00|65223|2014-09-09 00:00:00|1
+Napoleon Dynamite (2012): The Complete Animated Series|Olive Films|2014-11-04 00:00:00|Pending|2.0|LBX, 16:9|29.95|NR|2012|TV Classics|1.78:1|887090085304|2014-11-04 00:00:00|269651|2014-09-09 00:00:00|0
+National Geographic: How To Survive The End Of The World|National Geographic Video||Out|2.0|LBX, 16:9|29.93|NR|2013|Documentary|1.78:1|727994932789|2014-09-09 00:00:00|266511|2014-09-09 00:00:00|1
+Nebraska (Warner Brothers)|Warner Brothers||Out|3.0|LBX, 16:9|14.97|R|2013|Action/Adventure|2.35:1|883929428304|2014-09-09 00:00:00|265436|2014-09-09 00:00:00|1
+Nebraska (Warner Brothers/ Blu-ray)|Warner Brothers||Out|3.0 DTS-HD|LBX, 16:9, BLU-RAY|19.98|R|2013|Action/Adventure|2.35:1|883929428243|2014-09-09 00:00:00|265475|2014-09-09 00:00:00|1
+NIST / EPA / NIH Mass Spectral Library 2014 Upgrade (DVD-ROM/ Alternate ISBN)|John Wiley & Sons||Out|2.0|4:3|2495|NR|2014|Special Interest|1.33:1|9781118980897|2014-09-09 00:00:00|265497|2014-09-09 00:00:00|1
+Nostril Picker|Massacre Video|2014-10-14 00:00:00|Pending|2.0|4:3|19.98|NR|1993|Horror|1.33:1|663390000434|2014-10-14 00:00:00|269677|2014-09-09 00:00:00|0
+Oedipus Rex (1967/ Alternate UPC)|Water Bearer Films||Out|SUB|LBX|24.95|NR|1967|Foreign|1.85:1|759259143029|2003-03-18 00:00:00|269643|2014-09-09 00:00:00|0
+Operation Maneater|PBS||Out|2.0|LBX, 16:9|24.99|NR|2014|Documentary|1.78:1|841887021531|2014-09-09 00:00:00|266206|2014-09-09 00:00:00|1
+Palo Alto (2013)|Phase 4 Films||Out|5.1|LBX, 16:9|19.99|R|2013|Drama|1.85:1|625828634949|2014-09-09 00:00:00|267030|2014-09-09 00:00:00|1
+Paradise (2012): Season 1|BBC Home Video||Out|5.1|LBX, 16:9|39.98|NR|2012|TV Classics|1.78:1|883929336500|2013-11-12 00:00:00|250668|2014-09-09 00:00:00|1
+Paradise (2012): Season 1 (Blu-ray)|BBC Home Video||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|44.98|NR|2012|TV Classics|1.78:1|883929370351|2013-11-12 00:00:00|250656|2014-09-09 00:00:00|1
+Paradise (2013): Season 2|BBC Home Video|2014-11-18 00:00:00|Pending|5.1|LBX, 16:9|39.98|NR|2013|TV Classics|1.78:1|883929447725|2014-11-18 00:00:00|269689|2014-09-09 00:00:00|0
+Paradise (2013): Season 2 (Blu-ray)|BBC Home Video|2014-11-18 00:00:00|Pending|5.1 DTS-HD|LBX, 16:9, BLU-RAY|44.98|NR|2013|TV Classics|1.78:1|883929447718|2014-11-18 00:00:00|269673|2014-09-09 00:00:00|0
+Paranormal Prisons: Portal To Hell On Earth|Reality Entertainment||Out|2.0|LBX, 16:9|19.98|NR|UNK|Special Interest|1.78:1|887936794254|2014-09-09 00:00:00|267459|2014-09-09 00:00:00|1
+Pee Wee Bluesgang: Live At Rockpalast|Sireena Record||Out|2.0|4:3|18.95|NR|UNK|Music|1.33:1|4260182985021|2014-09-09 00:00:00|267547|2014-09-09 00:00:00|1
+Peekarama: Cry For Cindy / Touch Me / Act Of Confession|Vinegar Syndrome||Out|1.0|LBX, 16:9|22.98|UR|VAR|Late Night|1.85:1|855011004529|2014-09-09 00:00:00|268440|2014-09-09 00:00:00|1
+Peekarama: Mai Lin Vs. Serena / Oriental Hawaii|Vinegar Syndrome||Out|2.0|LBX, 16:9|19.98|UR|1982|Late Night|1.85:1|855011004543|2014-09-09 00:00:00|268441|2014-09-09 00:00:00|1
+Peg+Cat [Peg + Cat]: The Chicken Problems & Other Really Big Problems|PBS||Out|2.0|LBX, 16:9|12.99|NR|2013|Animation|1.78:1|841887021296|2014-09-09 00:00:00|263075|2014-09-09 00:00:00|1
+Perry Mason Double Feature: The Case Of The Fatal Framing / The Case Of The Reckless Romeo|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|16.99|NR|1992|Mystery/Suspense|1.33:1|032429152008|2014-12-02 00:00:00|269674|2014-09-09 00:00:00|0
+Perry Mason Double Feature: The Case Of The Glass Coffin / The Case Of The Fatal Fashion|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|16.99|NR|1991|Mystery/Suspense|1.33:1|032429151995|2014-12-02 00:00:00|269705|2014-09-09 00:00:00|0
+Perry Mason Double Feature: The Case Of The Heartbroken Bride / The Case Of The Skin Deep Scandal|Paramount|2014-12-02 00:00:00|Pending|2.0|4:3|16.99|NR|VAR|Mystery/Suspense|1.33:1|032429152015|2014-12-02 00:00:00|269638|2014-09-09 00:00:00|0
+Perry Mason: The Case Of The Lady In The Lake / The Case Of The Lethal Lesson|Paramount||Out|2.0|4:3|16.99|NR|VAR|Drama|1.33:1|032429149589|2014-09-09 00:00:00|266234|2014-09-09 00:00:00|1
+Perry Mason: The Case Of The Musical Murder / The Case Of The All-Star Assassin|Paramount||Out|2.0|4:3|16.99|NR|1989|Drama|1.33:1|032429149596|2014-09-09 00:00:00|266113|2014-09-09 00:00:00|1
+Perry Mason: The Case Of The Scandalous Scoundrel / The Case Of The Avenging Ace|Paramount||Out|2.0|4:3|16.99|NR|VAR|Drama|1.33:1|032429149602|2014-09-09 00:00:00|266103|2014-09-09 00:00:00|1
+PMS Cop|Full Moon||Out|2.0|4:3|14.95|NR|2014|Horror|1.33:1|859831007777|2014-09-09 00:00:00|263582|2014-09-09 00:00:00|1
+Prince Of The Night|One 7 Movies||Out|SUB|LBX, 16:9|19.95|NR|1988|Foreign|1.85:1|812592015238|2014-09-09 00:00:00|268053|2014-09-09 00:00:00|1
+Prisoner Of Paradise (1980)|Vinegar Syndrome||Out|1.0|LBX, 16:9|17.98|X|1980|Late Night|1.85:1|855011004536|2014-09-09 00:00:00|268460|2014-09-09 00:00:00|1
+Project Purgatory|Creep FX||Out|2.0|4:3|14.98|NR|2010|SciFi|1.33:1|824355547023|2014-09-09 00:00:00|268379|2014-09-09 00:00:00|1
+Prom Night (1980/ Synapse/ Special Edition)|Synapse||Out|2.0|LBX, 16:9|19.98|R|1980|Horror|1.85:1|654930316696|2014-09-09 00:00:00|268041|2014-09-09 00:00:00|1
+Prom Night (1980/ Synapse/ Special Edition/ Blu-ray)|Synapse||Out|2.0|LBX, 16:9, BLU-RAY|24.95|R|1980|Horror|1.85:1|654930316597|2014-09-09 00:00:00|268010|2014-09-09 00:00:00|1
+Puccini: La Boheme|Gramola||Out|2.0|4:3|27.99|NR|UNK|Opera|1.33:1|9003643900011|2014-09-09 00:00:00|268516|2014-09-09 00:00:00|1
+Pumpkinhead (Shout! Factory/ Collector's Edition/ Blu-ray)|Shout! Factory||Out|2.0|LBX, 16:9, BLU-RAY|29.93|R|1988|Horror|1.85:1|826663151909|2014-09-09 00:00:00|266662|2014-09-09 00:00:00|1
+Queen: Live At The Rainbow '74 (Eagle Vision)|Eagle Vision||Out|5.1|LBX, 16:9|14.98|NR|UNK|Music|1.78:1|801213067992|2014-09-09 00:00:00|267867|2014-09-09 00:00:00|1
+Queen: Live At The Rainbow '74 (Eagle Vision/ Blu-ray)|Eagle Vision||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|19.98|NR|UNK|Music|1.78:1|801213098798|2014-09-09 00:00:00|267830|2014-09-09 00:00:00|1
+Queen: Live At The Rainbow '74 (Eagle Vision/ Blu-ray/CD Combo)|Eagle Vision||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|29.98|NR|UNK|Music|1.78:1|801213098897|2014-09-09 00:00:00|267827|2014-09-09 00:00:00|1
+Queen: Live At The Rainbow '74 (Hollywood Records/ DVD/CD Combo/ Deluxe Box Set)|Hollywood Records||Out|2.0|LBX, 16:9|79.98|NR|UNK|Music|1.78:1|050087313906|2014-09-09 00:00:00|268393|2014-09-09 00:00:00|1
+Rage Against The Machine: 20 Years At The Edge (2-Disc)|Chrome Dreams||Out|2.0|4:3|26.95|NR|UNK|Music|1.33:1|823564538594|2014-09-09 00:00:00|267021|2014-09-09 00:00:00|1
+Rebirth Of Mothra (Blu-ray) / Rebirth Of Mothra II (Blu-ray) / Rebirth Of Mothra III (Blu-ray)|Sony Pictures||Out|SUB|LBX, 16:9|19.99|NR|VAR|SciFi|1.85:1|043396446595|2014-09-09 00:00:00|267740|2014-09-09 00:00:00|1
+Refuge (2012)|Strand||Out|2.0|LBX, 16:9|24.99|NR|2012|Drama|1.85:1|712267332021|2014-09-09 00:00:00|266548|2014-09-09 00:00:00|1
+Regular Show: Rigby Pack|Warner Brothers Digital Dist.||Out|2.0|LBX, 16:9|19.82|NR|VAR|Animation|1.78:1|883929411016|2014-09-09 00:00:00|263155|2014-09-09 00:00:00|1
+Richard Lewis: Bundle Of Nerves: Diary Of A Young Comic / Drunks / House Of A Lifetime|Video Service Corp.||Out|2.0|4:3|29.95|NR|VAR|Comedy|1.33:1|778854205697|2014-09-09 00:00:00|267033|2014-09-09 00:00:00|1
+Ring Of Fire: The Story Of Johnny Cash|Laser Media||Out|2.0|4:3|17.95|NR|UNK|Music|1.33:1|5883007131213|2014-09-09 00:00:00|267506|2014-09-09 00:00:00|1
+Rocko's Modern Life: The Complete Series|Shout! Factory||Out|2.0|4:3|29.99|NR|VAR|Animation|1.33:1|826663138627|2013-02-26 00:00:00|269654|2014-09-09 00:00:00|0
+Rodgers & Hammerstein's Cinderella (1965/ Shout! Factory)|Shout! Factory||Out|2.0|4:3|19.97|G|1965|Musical|1.33:1|826663151138|2014-09-09 00:00:00|265347|2014-09-09 00:00:00|1
+Royal Family: By Royal Appointment|Luxin||Out|2.0|LBX, 16:9|19.98|NR|UNK|Documentary|1.78:1|5060258602321|2014-09-09 00:00:00|267498|2014-09-09 00:00:00|1
+Sabrina: Secrets of a Teenage Witch: A Witch And The Werewolf|Lions Gate||Out|2.0|LBX, 16:9|14.98|NR|UNK|Animation|1.78:1|031398202509|2014-09-09 00:00:00|265953|2014-09-09 00:00:00|1
+Santana: Corazon, Live From Mexico: Live To Believe It|RCA Records||Out|2.0|LBX, 16:9|14.98|NR|UNK|Music|1.78:1|888430578098|2014-09-09 00:00:00|267289|2014-09-09 00:00:00|1
+Santana: Corazon: Live From Mexico: Live It To Believe It (Blu-ray/CD Combo)|RCA Records||Out|2.0|LBX, 16:9, BLU-RAY|24.98|NR|UNK|Music|1.78:1|888430968998|2014-09-09 00:00:00|267916|2014-09-09 00:00:00|1
+Santana: Corazon: Live From Mexico: Live It To Believe It (DVD/CD Combo)|RCA Records||Out|2.0|LBX, 16:9|18.98|NR|UNK|Music|1.78:1|888430968899|2014-09-09 00:00:00|267936|2014-09-09 00:00:00|1
+Secrets Of Westminster|PBS||Out|2.0|LBX, 16:9|24.99|NR|2014|Documentary|1.78:1|841887020565|2014-09-09 00:00:00|266024|2014-09-09 00:00:00|1
+Seizure! (Scorpion Releasing)|Scorpion Releasing||Out|2.0|LBX, 16:9|19.95|PG|1974|Horror|1.85:1|853765005373|2014-09-09 00:00:00|267426|2014-09-09 00:00:00|1
+Seizure! (Scorpion Releasing/ Blu-ray)|Scorpion Releasing||Out|2.0|LBX, 16:9, BLU-RAY|29.95|PG|1974|Horror|1.85:1|853765005380|2014-09-09 00:00:00|267429|2014-09-09 00:00:00|1
+Sex In The Wild|PBS||Out|2.0|LBX, 16:9|29.99|NR|2014|Documentary|1.78:1|841887021692|2014-09-09 00:00:00|265963|2014-09-09 00:00:00|1
+Shame The Devil|Olive Films||Out|2.0|LBX, 16:9|29.95|NR|2013|Suspense/Thriller|1.85:1|887090800600|2014-09-09 00:00:00|267400|2014-09-09 00:00:00|1
+Shining Night: A Portrait Of Composer Morten Lauridsen (Hanssler Classics)|Hanssler Classics||Out|2.0|4:3|29.99|NR|2012|Music|1.33:1|4010276027508|2014-09-09 00:00:00|268491|2014-09-09 00:00:00|1
+Shock: My Abstraction Of Death|Elite||Out|2.0|LBX, 16:9|14.95|NR|2013|Horror|2.35:1|790594746223|2014-09-09 00:00:00|264471|2014-09-09 00:00:00|1
+Shrek's Thrilling Tales|DreamWorks Animated||Out|5.1|LBX, 16:9|14.99|NR|2012|Animation|1.78:1|037117035205|2014-09-09 00:00:00|266803|2014-09-09 00:00:00|1
+SnakeHead Swamp|Sony Pictures|2014-10-28 00:00:00|Pending|5.1|LBX, 16:9|20.95|NR|2014|SciFi|1.78:1|043396448414|2014-10-28 00:00:00|269679|2014-09-09 00:00:00|0
+SpongeBob SquarePants: Halloween!: Scaredy Pants / Imitation Krabs / Frankendoodle / ...|Nickelodeon||Out|2.0|4:3|14.99|NR|VAR|Animation|1.33:1|032429200891|2014-09-09 00:00:00|266062|2014-09-09 00:00:00|1
+SpongeBob SquarePants: Holidays With SpongeBob (3-Disc): Christmas / To Love A Patty / Halloween!|Nickelodeon||Out|2.0|4:3|21.99|NR|VAR|Animation|1.33:1|032429200914|2014-09-09 00:00:00|266232|2014-09-09 00:00:00|1
+Star Trek: Compendium (Blu-ray): Star Trek / Star Trek: Into Darkness: IMAX Edition|Paramount||Out|7.1 TRUEHD|LBX, 16:9, BLU-RAY|39.99|PG-13|VAR|SciFi|2.35:1|032429200693|2014-09-09 00:00:00|266834|2014-09-09 00:00:00|1
+Star Trek: The Next Generation: All Good Things (Blu-ray)|Paramount|2014-12-02 00:00:00|Pending|7.1 DTS-HD|LBX, 16:9, BLU-RAY|23.99|NR|1994|TV Classics|1.78:1|032429155900|2014-12-02 00:00:00|269661|2014-09-09 00:00:00|0
+Steely Dan: Do It Again: The Story Of Steely Dan|Laser Media||Out|2.0|4:3|17.95|NR|UNK|Music|1.33:1|5883007131169|2014-09-09 00:00:00|265650|2014-09-09 00:00:00|1
+Stevie Ray Vaughan: Rise Of A Texas Bluesman 1954-1983|Sexy Intellectual Records||Out|2.0|4:3|19.95|NR|UNK|Music|1.33:1|823564539393|2014-09-09 00:00:00|267015|2014-09-09 00:00:00|1
+Stress Position|Brink||Out|2.0|LBX, 16:9|19.95|NR|2013|Suspense/Thriller|1.85:1|187830004177|2014-09-09 00:00:00|264467|2014-09-09 00:00:00|1
+Supernatural: The Complete 9th Season|Warner Brothers||Out|5.1|LBX, 16:9|59.98|NR|2013|TV Classics|1.78:1|883929375011|2014-09-09 00:00:00|266666|2014-09-09 00:00:00|1
+Supernatural: The Complete 9th Season (Blu-ray w/ Digital Copy)|Warner Brothers||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|69.97|NR|2013|TV Classics|1.78:1|883929373673|2014-09-09 00:00:00|266657|2014-09-09 00:00:00|1
+Superplanes (3-Disc)|Military Heritage Institute||Out|2.0|4:3|19.98|NR|UNK|Documentary|1.33:1|723721781767|2014-09-09 00:00:00|267504|2014-09-09 00:00:00|1
+Switzerland's Amazing Train Rides|Questar||Out|2.0|4:3|19.99|NR|UNK|Special Interest|1.33:1|033937043871|2014-09-02 00:00:00|269668|2014-09-09 00:00:00|0
+Taken For Ransom|North American Motion Pictures||Out|2.0|LBX, 16:9|14.93|NR|2013|Suspense/Thriller|1.85:1|883476144771|2014-09-09 00:00:00|266015|2014-09-09 00:00:00|1
+Tamako Market: Complete Collection|Sentai FilmWorks||Out|SUB|LBX, 16:9|59.98|MA13|2013|Anime|1.85:1|814131012753|2014-09-09 00:00:00|265007|2014-09-09 00:00:00|1
+Tanya Tucker: Live In Concert|San Juan Music Group||Out|2.0|4:3|14.95|NR|UNK|Music|1.33:1|760137631996|2014-09-09 00:00:00|267024|2014-09-09 00:00:00|1
+Teen Wolf (1985)|MGM/UA||Out|2.0|LBX, 16:9|9.98|PG|1985|Comedy|1.85:1|883904320623|2014-09-09 00:00:00|267621|2014-09-09 00:00:00|1
+Teenage|Oscilloscope Pictures||Out|2.0|LBX, 16:9|34.99|NR|2013|Documentary|1.85:1|896602002579|2014-09-09 00:00:00|265694|2014-09-09 00:00:00|1
+Teenage Mutant Ninja Turtles (2012): Showdown In Dimension X|Nickelodeon|2014-12-02 00:00:00|Pending|2.0|LBX, 16:9|19.99|NR|UNK|Animation|1.78:1|032429208200|2014-12-02 00:00:00|269659|2014-09-09 00:00:00|0
+Tim Kadlec's Responsive Design Workshop (DVD-ROM)|Peachpit Press||Out|2.0|4:3|99.99|NR|2013|Special Interest|1.33:1|9780321971142|2014-09-11 00:00:00|252972|2014-09-09 00:00:00|1
+Titanic: Band Of Courage|MPI Home Video||Out|2.0|LBX, 16:9|24.98|NR|UNK|Documentary|1.85:1|030306720791|2014-09-09 00:00:00|266440|2014-09-09 00:00:00|1
+Tomio|Tokyo Shock||Out|SUB|LBX, 16:9|19.98|NR|2011|Foreign|1.85:1|631595140583|2014-09-09 00:00:00|267414|2014-09-09 00:00:00|1
+Top Model|One 7 Movies||Out|SUB|4:3|19.95|NR|1987|Foreign|1.33:1|812592015245|2014-09-09 00:00:00|268026|2014-09-09 00:00:00|1
+Toscas's Kiss|Icarus Films||Out|2.0|4:3|24.98|NR|1984|Foreign|1.33:1|854565001701|2014-09-09 00:00:00|268266|2014-09-09 00:00:00|1
+Touch (2012): The Complete 2nd Season|Olive Films|2014-11-04 00:00:00|Pending|5.1|LBX, 16:9|39.95|NR|2013|TV Classics|1.78:1|887090085403|2014-11-04 00:00:00|269634|2014-09-09 00:00:00|0
+Trish Stratus: Stratusphere Yoga|MPI Home Video||Out|2.0|LBX, 16:9|24.98|NR|UNK|Exercise|1.78:1|030306710990|2014-09-09 00:00:00|266394|2014-09-09 00:00:00|1
+True Blood (2008): The Complete 7th Season|HBO|2014-11-11 00:00:00|Pending|5.1|LBX, 16:9|59.99|NR|2014|TV Classics|1.78:1|883929414833|2014-11-11 00:00:00|269637|2014-09-09 00:00:00|0
+True Blood (2008): The Complete 7th Season (Blu-ray w/ Digital Copy)|HBO|2014-11-11 00:00:00|Pending|5.1 DTS-HD|LBX, 16:9, BLU-RAY|79.98|NR|2014|TV Classics|1.78:1|883929414840|2014-11-11 00:00:00|269704|2014-09-09 00:00:00|0
+True Blood (2008: The Complete Series|HBO|2014-11-11 00:00:00|Pending|5.1|LBX, 16:9|249.99|NR|VAR|TV Classics|1.78:1|883929430727|2014-11-11 00:00:00|269639|2014-09-09 00:00:00|0
+True Blood (2008: The Complete Series (Blu-ray w/ Digital Copy)|HBO|2014-11-11 00:00:00|Pending|5.1 DTS-HD|LBX, 16:9, BLU-RAY|299.99|NR|VAR|TV Classics|1.78:1|883929430741|2014-11-11 00:00:00|269646|2014-09-09 00:00:00|0
+Tyler Perry's A Madea Christmas (Blu-ray w/ Digital Copy)|Lions Gate|2014-11-25 00:00:00|Pending|2.0|LBX, 16:9, BLU-RAY|39.99|PG-13|2013|Comedy|1.85:1|031398206170|2014-11-25 00:00:00|269688|2014-09-09 00:00:00|0
+Tyler Perry's A Madea Christmas (w/ Digital Copy)|Lions Gate|2014-11-25 00:00:00|Pending|2.0|LBX, 16:9|29.95|PG-13|2013|Comedy|1.85:1|031398206149|2014-11-25 00:00:00|269680|2014-09-09 00:00:00|0
+UFC [Ultimate Fighting Championship] 175|Anchor Bay|2014-11-04 00:00:00|Pending|2.0|4:3|19.98|NR|2014|Special Interest|1.33:1|013132620015|2014-11-04 00:00:00|269684|2014-09-09 00:00:00|0
+Ultimate Horror Pack|Anderson Merchandisers||Out|2.0|LBX, 16:9|6.99|NR|VAR|Horror|VAR|037117032945|2014-09-09 00:00:00|265862|2014-09-09 00:00:00|1
+Ultimate Zombie Pack|Anderson Merchandisers||Out|2.0|LBX, 16:9|6.99|NR|VAR|Horror|VAR|037117032914|2014-09-09 00:00:00|265892|2014-09-09 00:00:00|1
+Unauthorized Saved By The Bell Story (w/ Digital Copy)|Lions Gate|2014-11-04 00:00:00|Pending|2.0|4:3|14.98|NR|2014|Comedy|1.33:1|031398205661|2014-11-04 00:00:00|269669|2014-09-09 00:00:00|0
+Upstairs, Downstairs (1971/ Acorn Media)|Acorn Media|2014-11-25 00:00:00|Pending|2.0|4:3|199.99|NR|VAR|TV Classics|1.33:1|054961208098|2014-11-25 00:00:00|269642|2014-09-09 00:00:00|0
+Vampire Diaries: The Complete 5th Season (DVD & Blu-ray Combo w/ Digital Copy)|Warner Brothers||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|69.97|NR|2013|TV Classics|1.78:1|883929373796|2014-09-09 00:00:00|266623|2014-09-09 00:00:00|1
+Vampire Diaries: The Complete 5th Season(DVD: DVD9)|Warner Brothers||Out|5.1|LBX, 16:9|59.98|NR|2013|TV Classics|1.78:1|883929374229|2014-09-09 00:00:00|266639|2014-09-09 00:00:00|1
+Vanity Street (Choice Collection/ On Demand DVD-R)|Sony Pictures|2014-10-28 00:00:00|Pending|2.0|4:3|20.95|NR|1932|Action/Adventure|1.33:1|043396449367|2014-10-28 00:00:00|269695|2014-09-09 00:00:00|0
+Victim (2011/ Dir. by Alex Pillai)|Well Go USA||Out|5.1|LBX, 16:9|24.98|NR|2011|Action/Adventure|1.85:1|812491015643|2014-09-09 00:00:00|266522|2014-09-09 00:00:00|1
+Victim (2011/ Dir. by Alex Pillai/ Blu-ray)|Well Go USA||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|29.98|NR|2011|Action/Adventure|1.85:1|812491015650|2014-09-09 00:00:00|266549|2014-09-09 00:00:00|1
+Vivaldi: 7 With One Stroke!: Stuttgart Chamber Orchestra (Audio Only Blu-ray)|Tacet||Out|2.0|4:3, BLU-RAY|29.99|NR|UNK|Music|1.33:1|4009850020554|2014-09-09 00:00:00|268487|2014-09-09 00:00:00|1
+Wagner: Das Rheingold: Frankfurt Opera And Museum Orchestra|Oehms Classics||Out|2.0|4:3|34.99|NR|UNK|Opera|1.33:1|4260034869950|2014-09-09 00:00:00|268473|2014-09-09 00:00:00|1
+Walk By Faith (2014)|Bridgestone Group||Out|2.0|LBX, 16:9|19.98|NR|2014|Drama|1.85:1|095163886554|2014-09-09 00:00:00|267345|2014-09-09 00:00:00|1
+When Harry Tries To Marry|Viva Pictures||Out|2.0|4:3|14.98|PG-13|2011|Comedy|1.33:1|816943010071|2011-10-18 00:00:00|269692|2014-09-09 00:00:00|0
+Why We Fight: Battle Of Russia (On Demand DVD-R)|Synergy Entertainment|2014-09-30 00:00:00|Pending|2.0|4:3|14.98|NR|1943|Documentary|1.33:1|874757042695|2014-09-30 00:00:00|269631|2014-09-09 00:00:00|0
+Willow Creek|Dark Sky Films||Out|5.1|LBX, 16:9|24.98|NR|2013|Horror|1.85:1|030306821696|2014-09-09 00:00:00|266315|2014-09-09 00:00:00|1
+Willow Creek (Blu-ray)|Dark Sky Films||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|29.98|NR|2013|Horror|1.85:1|030306192895|2014-09-09 00:00:00|266333|2014-09-09 00:00:00|1
+Words And Pictures|Lions Gate||Out|5.1|LBX, 16:9|19.98|PG-13|2014|Comedy|1.85:1|031398200741|2014-09-09 00:00:00|266181|2014-09-09 00:00:00|1
+Words And Pictures (Blu-ray)|Lions Gate||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|24.99|PG-13|2014|Comedy|1.85:1|031398200956|2014-09-09 00:00:00|266057|2014-09-09 00:00:00|1
+Wrinkles (Blu-ray)|Cinedigm||Postponed|2.0|LBX, 16:9, BLU-RAY|34.95|NR|2011|Animation|1.85:1|025192221613|2014-06-17 00:00:00|269658|2014-09-09 00:00:00|0
+Wuhan Concertory Of Music Symphony Orchestra: The Yellow River Piano Concerto / The Butterfly Lovers Violin Concerto|Silverwolf||Out|2.0|LBX, 16:9|15.99|NR|UNK|Music|1.78:1|787991114540|2014-09-09 00:00:00|267892|2014-09-09 00:00:00|1
+WWII On Film (3-Disc)|Questar||Out|2.0|4:3|24.99|NR|VAR|Documentary|1.33:1|033937043857|2014-09-02 00:00:00|269675|2014-09-09 00:00:00|0
+Xingu|Breaking Glass Pictures||Out|SUB|LBX, 16:9|24.99|NR|2012|Foreign|2.35:1|857965003986|2014-09-09 00:00:00|266136|2014-09-09 00:00:00|1
+Year In The Blue: Inside The Air Force Academy (Blu-ray)|Passion River||Out|2.0|LBX, 16:9, BLU-RAY|29.99|NR|UNK|Documentary|1.78:1|748252801432|2014-09-09 00:00:00|267890|2014-09-09 00:00:00|1
+Year In The Blue: Inside The Air Force Academy (Limited Release)|Passion River||Out|2.0|LBX, 16:9|59.95|NR|UNK|Documentary|1.78:1|748252801234|2014-09-09 00:00:00|267664|2014-09-09 00:00:00|1
+Young Frankenstein (40th Anniversary/ Blu-ray)|Fox||Out|2.0|LBX, 16:9, BLU-RAY|14.99|PG|1974|Comedy|1.85:1|024543880066|2014-09-09 00:00:00|267423|2014-09-09 00:00:00|1
+Zombie Double Feature (Blu-ray): Dead Season / State Of Emergency (2010)|Image||Out|5.1 DTS-HD|LBX, 16:9, BLU-RAY|19.98|NR|VAR|VAR|1.78:1|014381001464|2014-09-09 00:00:00|267140|2014-09-09 00:00:00|1

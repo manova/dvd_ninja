@@ -13,7 +13,7 @@ class MovieSpider(BaseSpider):
 	name = "movie_info"
 	other_urls = []
 	names = []
-	movies = MongoClient().movies.movies
+	movies = MongoClient().dvds.movies
 	count = -1
 	allowed_domains = [
 	"rottentomatoes.com"
@@ -43,9 +43,10 @@ class MovieSpider(BaseSpider):
 		print self.count
 		print self.names[self.count].lower()
 		hxs = Selector(response)
-		name_path = hxs.xpath('//*[@id="movie_results_ul"]/li[1]/div[2]/h3/a/text()')
-		if len(name_path)>0:
-			name = name_path[0].extract()
+		list_name_path = hxs.xpath('//*[@id="movie_results_ul"]/li[1]/div[2]/h3/a/text()')
+		name_path = hxs.xpath('//*[@id="mainColumn"]/h1/span/text()')
+		if len(list_name_path)>0:
+			name = list_name_path[0].extract()
 			href = hxs.xpath('//*[@id="movie_results_ul"]/li[1]/div[2]/h3/a/@href')[0].extract()
 			actor_paths = hxs.xpath('//*[@id="movie_results_ul"]/li[1]/div[2]/a/text()')
 			actors = []
@@ -55,6 +56,11 @@ class MovieSpider(BaseSpider):
 			item['actors'] = actors
 			return Request(host+href,
                       callback=self.parse_info, meta={'item':item, 'items':items}, dont_filter=True)
+		elif name_path:
+			name = name_path[0].extract()
+			item['title'] = name
+			return Request(response.url,
+                      callback=self.parse_info, meta={'item':item, 'items':items}, dont_filter=True)
 		if self.other_urls:
 			return Request(self.other_urls.pop(0), meta={'items': items}, dont_filter=True)
 		return items
@@ -63,13 +69,31 @@ class MovieSpider(BaseSpider):
 		hxs = Selector(response)
 		item = response.meta['item']
 		items = response.meta['items']
-		item['criticRating'] = hxs.xpath('//*[@id="all-critics-meter"]/text()')[0].extract()
-		item['audienceRating'] = hxs.xpath('//*[@id="scorePanel"]/div/a/span/text()')[0].extract()
-
+		critic_rating = hxs.xpath('//*[@id="tomato_meter_link"]/span[2]/span/text()')
+		audience_rating = hxs.xpath('//*[@id="scorePanel"]/div[2]/div[1]/a/div/div/span/span/text()')
+		if critic_rating:
+			 critic_rating = critic_rating[0].extract()
+			 try:
+			 	critic_rating = int(critic_rating)
+			 except:
+			 	pass
+			 item['criticRating'] = critic_rating
+		if audience_rating:
+			 audience_rating = audience_rating[0].extract()
+			 try:
+			 	audience_rating = int(audience_rating)
+			 except:
+			 	pass
+			 item['audienceRating'] = audience_rating
+		actors = hxs.xpath('//*[@id="mainColumn"]/div[2]/div[2]/div[3]/div/div/a/span/text()')
+		actors = [x.extract().strip() for x in actors]
+		item['actors'] = actors
 		regex = re.compile('.*' + re.escape(self.names[self.count]) + '.*', re.IGNORECASE)
-		self.movies.update({'title':{'$regex': regex}}, {'$set':{'actors':item['actors'], 'critic_rating':item['criticRating'], 'audience_rating':item['audienceRating']}})
+		self.movies.update({'title':{'$regex': regex}}, {'$set':{'actors':item['actors'], 'critic_rating':item.get('criticRating', ''), 'audience_rating':item.get('audienceRating', '')}})
 		log.msg("Parsed stage 2 url: "+response.url, level=log.INFO)
 		items.append(item)
 		if self.other_urls:
 			return Request(self.other_urls.pop(0), meta={'items': items}, dont_filter=True)
 		return items
+
+

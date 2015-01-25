@@ -7,9 +7,8 @@
  routes = require('./routes'),
  http = require('http'),
  path = require('path'),
- db = require('mongoskin').db('localhost:27017/thoughtadvisor'),
- db2 = require('mongoskin').db('localhost:27017/movies'),
- movies = db2.collection('movies');
+ db = require('mongoskin').db('mongodb://localhost:27017/dvds'),
+ movies = db.collection('movies');
 
  var app = express();
 
@@ -36,22 +35,24 @@
   res.render('movies', {title: "DVD Ninja"});
 });
 
+
  app.get('/dvds', function(req,res){
+  console.log('hey')
   var query = req.query;
   var start_date = new Date(query.start_date);
   var end_date = new Date(query.end_date);
   var genr = ".*" + query.genre + ".*";
-  var critic_rating = query.critic_rating;
-  var audience_rating = query.audience_rating;
-  //console.log(genr);
+  var critic_rating = parseInt(query.critic_rating);
+  var audience_rating = parseInt(query.audience_rating);
+  var movie_query = '.*' + req.param('movie_query') + '.*';
+  console.log(movie_query);
+  console.log(typeof critic_rating)
   res.writeHead(200, {'Access-Control-Allow-Origin': '*'/*, "Content-Type": "application/json"*/});
   movies.find({dvd_release_date: {$gte: start_date, $lte: end_date}, genre: {
-    $regex: genr}, critic_rating:{$gte: critic_rating, $nin:['No Reviews Yet...', 'No Score Yet...']},
-    audience_rating:{$gte:audience_rating, $nin:['No Reviews Yet...', 'No Score Yet...']}}, {
+    $regex: genr}, title: {$regex: movie_query, $options: 'i'}, critic_rating:{$gte: critic_rating, $nin:['No Reviews Yet...', 'No Score Yet...']}, audience_rating:{$gte:audience_rating, $nin:['No Reviews Yet...', 'No Score Yet...']}}, {
       title:1, dvd_release_date:1, critic_rating:1, audience_rating:1, torrents:1, actors:1, _id:0}).sort(
-      {dvd_release_date:-1}).toArray(function (e, result){
+      {dvd_release_date:-1}).limit(100).toArray(function (e, result){
         if (e) throw(e);
-        console.log(result);
         res.end(JSON.stringify(result));
       });
   });
@@ -60,3 +61,7 @@
   console.log("Express server listening on port " + app.get('port'));
 });
 
+app.get('/restaurants', function(req, res){
+  console.log('Enter Restaurant Week');
+  res.end("You want a menu, don't you?");
+});
